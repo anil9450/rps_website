@@ -7,8 +7,8 @@ import { FaInstagram } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { IoIosCall } from "react-icons/io";
 import Header from "../../components/Header";
-import ImageSlider from "../../components/Slider
 import Marquee from "../../components/Marq";
+import ImageSlider from "../../components/Slider";
 
 export default function Home() {
   return (
